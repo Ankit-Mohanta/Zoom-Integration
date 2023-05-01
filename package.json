@@ -11,6 +11,8 @@
   "dependencies": {
     "@zoomus/websdk": "^2.11.5",
     "axios": "^1.4.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
     "jsrsasign": "^10.8.6",
     "next": "13.3.2",
     "react": "18.2.0",
